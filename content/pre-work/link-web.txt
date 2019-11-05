@@ -5,3 +5,6 @@ https://zhuanlan.zhihu.com/p/32262127
 
 
 https://blog.csdn.net/flydream0/article/details/8167118 ---- CAN 时间戳模式应用STM32
+
+
+https://www.cnblogs.com/try-again/p/9179101.html    --- 以太网介绍 MAC PHY
