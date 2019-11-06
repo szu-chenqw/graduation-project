@@ -8,3 +8,13 @@ https://blog.csdn.net/flydream0/article/details/8167118 ---- CAN 时间戳模式应用S
 
 
 https://www.cnblogs.com/try-again/p/9179101.html    --- 以太网介绍 MAC PHY
+
+https://segmentfault.com/a/1190000005337116?utm_source=tag-newest     ---- NTP PTP 协议原理  && 需要支持IEEE1588协议的PHY片
+https://blog.csdn.net/woswod/article/details/82345380                                 -----  PTP Synchronization Protocol
+https://wenku.baidu.com/view/92d9731f777f5acfa1c7aa00b52acfc788eb9f70.html   -----  PTP Synchronization Protocol 计算
+https://wenku.baidu.com/view/6319eb283169a4517723a34f.html                               ------PTP 软硬件实现
+https://blog.csdn.net/m0_37537704/article/details/86751112
+
+http://www.elecfans.com/d/760173.html                      -------IEEE1588 PTP PYH
+https://wenku.baidu.com/view/27c069ea79563c1ec4da7159.html    ---DP83640技术说明书
+https://blog.csdn.net/guoyiyan1987/article/details/78811521     ----DP83640  案例分享
